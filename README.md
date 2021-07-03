@@ -7,4 +7,5 @@ The result of this project shows 3 cultural clusters. Cultural clusters are the 
 References:
 
 [1]	Awad, E., Dsouza, S., Kim, R. et al. The Moral Machine Experiment. Nature, 2018. https://doi.org/10.1038/s41586-018-0637-6 
+
 [2]	Awad, E., Dsouza, S., Kim, R. et al. The Moral Machine Experiment – Supplementary Material. Nature, 2018.
