@@ -5,5 +5,6 @@ This project is an implementation of the Moral Machine Experiment [1], a study c
 The result of this project shows 3 cultural clusters. Cultural clusters are the formed by computing country-wise AMCE estimates- where all the responses from a country are used to compute a single AMCE value that represents its moral values. These AMCE values are then clustered using hierarchical methods. The paper reports three distinct cultural clusters with different moral preferences.
 
 References:
+
 [1]	Awad, E., Dsouza, S., Kim, R. et al. The Moral Machine Experiment. Nature, 2018. https://doi.org/10.1038/s41586-018-0637-6 
 [2]	Awad, E., Dsouza, S., Kim, R. et al. The Moral Machine Experiment – Supplementary Material. Nature, 2018.
